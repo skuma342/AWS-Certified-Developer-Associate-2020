@@ -1,0 +1,7 @@
+IAM - Identity Access Management
+*
+Manage users and level of access to AWS console.
+Roles - can be assigned to users or amazon objects.
+policies - set of rules.
+
+https://sudarshanpce.signin.aws.amazon.com/console
